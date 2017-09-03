@@ -16815,6 +16815,131 @@ name lianglian
 
 </div>
 </div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="&#20869;&#23384;&#25351;&#38024;">&#20869;&#23384;&#25351;&#38024;<a class="anchor-link" href="#&#20869;&#23384;&#25351;&#38024;">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>值传递：我创建了两个变量，分别指向内存中对应的两个地址空间的值：</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">name1</span> <span class="o">=</span> <span class="s1">&#39;liangxiansen&#39;</span>
+<span class="n">name2</span> <span class="o">=</span> <span class="s1">&#39;Kevin&#39;</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">name1</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">name2</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;name1 内存地址：&#39;</span><span class="p">,</span> <span class="nb">id</span><span class="p">(</span><span class="n">name1</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;name2 内存地址：&#39;</span><span class="p">,</span> <span class="nb">id</span><span class="p">(</span><span class="n">name2</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>liangxiansen
+Kevin
+name1 内存地址： 4350694512
+name2 内存地址： 4322625272
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="value1.png" alt="值传递"></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>指针传递：我创建了一个变量，使用另一个变量赋值的内存指针赋值：</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">name3</span> <span class="o">=</span> <span class="n">name1</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">name1</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">name3</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;name1 内存地址：&#39;</span><span class="p">,</span> <span class="nb">id</span><span class="p">(</span><span class="n">name1</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;name3 内存地址：&#39;</span><span class="p">,</span> <span class="nb">id</span><span class="p">(</span><span class="n">name3</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>liangxiansen
+liangxiansen
+name1 内存地址： 4350694512
+name3 内存地址： 4350694512
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="value2.png" alt="地址传递"></p>
+
+</div>
+</div>
 </div></section></section>
 </div>
 </div>
