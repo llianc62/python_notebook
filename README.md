@@ -1,5 +1,17 @@
+---
+title: Python 教程
+date: 2017-09-03 00:22:47
+---
+
+---
+title: Python 教程
+date: 2017-09-03 00:22:47
+---
+
 ### 自述
-使用Jupyter 写下关于自己学习Python 的笔记。
+使用 `Jupyter` 写下关于自己学习Python 的笔记，整个教程使用`Python3`。
+
+<div class="github-widget" data-repo="LiangXianSen/python_notebook"></div>
 
 ### 初识 Python
 
@@ -92,4 +104,20 @@
 | [文件打开模式](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.ipynb#打开文件模式) |
 | [Open 对象](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.ipynb#open-对象) |
 | [操作文件](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.ipynb#操作文件) |
+
+
+
+### Python 函数式编程
+
+| [函数式编程](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B) |
+| ---------------------------------------- |
+| [函数的定义](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89) |
+| [函数参数](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E6%99%AE%E9%80%9A%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92) |
+| [注意事项](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9) |
+| [lambda表达式](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F) |
+| [装饰器](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E8%A3%85%E9%A5%B0%E5%99%A8) |
+| [迭代器和生成器](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8) |
+| [迭代器和生成器](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8) |
+| [递归](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E9%80%92%E5%BD%92) |
+
 
