@@ -21,7 +21,7 @@
 ### Python 数据类型
 
 | [Python 数据类型](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#Python-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B) |
-| :--------------------------------------- |
+| ---------------------------------------- |
 | [Python 进制](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#进制) |
 | [Python 整数](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#整数) |
 | [Python 浮点数](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#浮点型) |
@@ -37,7 +37,7 @@
 ### Python 内置函数
 
 | [Python 内置函数](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#Python-内置函数) |
-| :--------------------------------------- |
+| ---------------------------------------- |
 | [abs](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#abs) |
 | [bool](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#bool) |
 | [all](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#all) |
