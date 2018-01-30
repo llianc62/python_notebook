@@ -1,13 +1,3 @@
----
-title: Python 教程
-date: 2017-09-03 00:22:47
----
-
----
-title: Python 教程
-date: 2017-09-03 00:22:47
----
-
 ### 自述
 使用 `Jupyter` 写下关于自己学习Python 的笔记，整个教程使用`Python3`。
 
@@ -15,9 +5,8 @@ date: 2017-09-03 00:22:47
 
 ### 初识 Python
 
-| 初识 Python                                |
-| ---------------------------------------- |
 | [初识 Python](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/%E5%88%9D%E8%AF%86%20Python.ipynb#初识-Python) |
+| ---------------------------------------- |
 | [Python 之禅](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/%E5%88%9D%E8%AF%86%20Python.ipynb#Python之禅) |
 | [Python 能做什么](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/%E5%88%9D%E8%AF%86%20Python.ipynb#Python-能做什么) |
 | [关于Python 你需要知道的那些事](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/%E5%88%9D%E8%AF%86%20Python.ipynb#语法要求) |
@@ -31,7 +20,7 @@ date: 2017-09-03 00:22:47
 
 ### Python 数据类型
 
-| Python 数据类型                              |
+| [Python 数据类型](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#Python-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B) |
 | :--------------------------------------- |
 | [Python 进制](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#进制) |
 | [Python 整数](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb#整数) |
@@ -47,9 +36,8 @@ date: 2017-09-03 00:22:47
 
 ### Python 内置函数
 
-| Python 内置函数                              |
-| :--------------------------------------- |
 | [Python 内置函数](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#Python-内置函数) |
+| :--------------------------------------- |
 | [abs](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#abs) |
 | [bool](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#bool) |
 | [all](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb#all) |
@@ -75,7 +63,7 @@ date: 2017-09-03 00:22:47
 
 ### Python 输入输出
 
-| Python 输入输出                              |
+| [Python 输入输出](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.ipynb#%E6%A0%87%E5%87%86%E8%BE%93%E5%87%BA) |
 | ---------------------------------------- |
 | [Python 标准输出](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.ipynb#标准输出) |
 | [Python 格式化输出](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.ipynb#"%"-百分号格式化) |
@@ -88,7 +76,7 @@ date: 2017-09-03 00:22:47
 
 ### Python 流程控制
 
-| Python 流程控制                              |
+| [Python 流程控制](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.ipynb#if-%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD) |
 | ---------------------------------------- |
 | [Python if判断](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.ipynb#if-条件判断) |
 | [Python for循环](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.ipynb#for-循环) |
@@ -98,7 +86,7 @@ date: 2017-09-03 00:22:47
 
 ### Python 文件操作
 
-| Python 文件操作                              |
+| [Python 文件操作](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.ipynb#%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6) |
 | ---------------------------------------- |
 | [Python 打开文件](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.ipynb#打开文件) |
 | [文件打开模式](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.ipynb#打开文件模式) |
