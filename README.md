@@ -131,3 +131,6 @@
 | [方法](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.ipynb#%E6%96%B9%E6%B3%95) |
 | [属性](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.ipynb#%E5%B1%9E%E6%80%A7) |
 | [类特殊成员](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.ipynb#%E7%B1%BB%E7%89%B9%E6%AE%8A%E6%88%90%E5%91%98) |
+| [异常处理](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.ipynb#%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86) |
+| [反射](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.ipynb#%E5%8F%8D%E5%B0%84) |
+| [设计模式](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.ipynb#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F) |
