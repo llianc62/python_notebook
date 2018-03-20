@@ -95,6 +95,28 @@
 
 
 
+### Python 常用模块
+
+| [Python 常用模块](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#Python-%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97) |
+| ------------------------------------------------------------ |
+| [sys](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#sys) |
+| [os](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#os) |
+| [time](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#time) |
+| [datetime](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#datetime) |
+| [random](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#random) |
+| [bashlib](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#hashlib) |
+| [subprocess](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#subprocess) |
+| [shutil](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#shutil) |
+| [re 正则表达式](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#re-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F) |
+| [序列化](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#python-%E5%BA%8F%E5%88%97%E5%8C%96) |
+| [configparser](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#configparser) |
+| [XML 解析](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#XML) |
+| [logging](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#logging) |
+| [requests](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#requests) |
+| [paramiko](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97.ipynb#paramiko) |
+
+
+
 ### Python 函数式编程
 
 | [函数式编程](http://nbviewer.jupyter.org/github/LiangXianSen/python_notebook/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.ipynb#%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B) |
